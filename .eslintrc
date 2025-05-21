@@ -1,0 +1,9 @@
+{
+    "extends": "react-app",
+    "rules": {
+      "no-console": "off",
+      "no-unused-vars": "off",
+       "no-undef": "off"  // Disable if it's incorrectly flagging TypeScript generics
+      
+    }
+}
